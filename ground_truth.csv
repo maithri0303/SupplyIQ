@@ -1,0 +1,6 @@
+issue_id,issue_type,shortage_id,sku_id,location_id,expected_detection,description
+ISSUE-001,INBOUND_DOUBLE_COUNT,SHORT-2026-000001,SKU-000001,LOC-001,True,Synthetic labeled exception scenario for validation
+ISSUE-002,UNAPPROVED_SUBSTITUTE,SHORT-2026-000002,SKU-000001,LOC-001,True,Synthetic labeled exception scenario for validation
+ISSUE-003,SUPPLIER_CAPACITY_EXCEEDED,SHORT-2026-000003,SKU-000001,LOC-001,True,Synthetic labeled exception scenario for validation
+ISSUE-004,LEAD_TIME_OMITTED,SHORT-2026-000004,SKU-000001,LOC-001,True,Synthetic labeled exception scenario for validation
+ISSUE-005,UOM_MISMATCH,SHORT-2026-000005,SKU-000001,LOC-001,True,Synthetic labeled exception scenario for validation

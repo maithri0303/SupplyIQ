@@ -1,0 +1,50 @@
+{
+  "seed": 20261022,
+  "synthetic": true,
+  "files": {
+    "data/generated/demand.csv": {
+      "rows": 7680,
+      "sha256": "70f64e1dfea9f20c4bcdaa6984f71148511caab5cd2e62d21a6949e3e0aa0bb2"
+    },
+    "data/generated/ground_truth.csv": {
+      "rows": 5,
+      "sha256": "3c25069d86dc98f05984c996818b37fb5a906781091ec7a0313ec77feff2604f"
+    },
+    "data/generated/inventory.csv": {
+      "rows": 7680,
+      "sha256": "dbebf6ba9063e20e59bb4868869b03b77f63fd681266cfdb2c27d906e196455b"
+    },
+    "data/generated/lead_time.csv": {
+      "rows": 640,
+      "sha256": "b239b26af25604a09ee95a2bde4fa5be84d4238185479ab61ab1fcabccc422e7"
+    },
+    "data/generated/locations.csv": {
+      "rows": 8,
+      "sha256": "70ac9b743df0aa1c53d5822ca1223ffd7c7da82ef265fe7ca5bd312c06d01d17"
+    },
+    "data/generated/mitigations.csv": {
+      "rows": 500,
+      "sha256": "1781858236604708e0c2abcc506196f133d44986f1429b8b5005596208151a5a"
+    },
+    "data/generated/production_plan.csv": {
+      "rows": 7680,
+      "sha256": "0f23105de93787121fa700242d3ee94ee93d78f98247989c0d7bbcdf6686a390"
+    },
+    "data/generated/purchase_orders.csv": {
+      "rows": 1920,
+      "sha256": "c1173a8ae2b1857d9851b42784fe4c18c18a3c72cac77937e0cc0663e27b1b18"
+    },
+    "data/generated/shortages.csv": {
+      "rows": 7067,
+      "sha256": "3f218c84e0043cee5593b231a46c9b3d7c891819bacfc44d4a736cf94c0ed12d"
+    },
+    "data/generated/sku.csv": {
+      "rows": 80,
+      "sha256": "08ca8f6bba2c6b8b3594edee385d297c58d016f769f9d7c7e95ee6bbd0a7d6d0"
+    },
+    "data/generated/suppliers.csv": {
+      "rows": 30,
+      "sha256": "0b63d5d227aeeab85888b670f097c3f868eb0babf07938e350694985261620b1"
+    }
+  }
+}

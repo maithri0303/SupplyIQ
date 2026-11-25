@@ -1,0 +1,9 @@
+location_id,location_name,region,capacity_units
+LOC-001,Distribution Center 01,East,16094
+LOC-002,Distribution Center 02,West,26607
+LOC-003,Distribution Center 03,North,35109
+LOC-004,Distribution Center 04,West,30080
+LOC-005,Distribution Center 05,West,14127
+LOC-006,Distribution Center 06,North,37356
+LOC-007,Distribution Center 07,South,39069
+LOC-008,Distribution Center 08,South,17968

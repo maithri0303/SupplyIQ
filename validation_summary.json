@@ -1,0 +1,40 @@
+{
+  "checks": [
+    {
+      "name": "SKU primary key",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Location primary key",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Demand IDs unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Demand SKU foreign keys",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Demand location foreign keys",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Nonnegative forecast",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Inventory IDs unique",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "passed": true
+}
