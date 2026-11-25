@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.pyc
+database/*.db
+data/forecast_demand.csv
+data/mitigation_recommendations.csv
+data/shortage_report.csv
+data/weekly_inventory_plan.csv
+
+.git_backup/
